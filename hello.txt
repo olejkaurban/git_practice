@@ -1,2 +1,2 @@
 New string.
-Some string.
+Second string.
